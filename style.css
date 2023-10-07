@@ -1,0 +1,42 @@
+html {
+        background-image: url("img/CHpn6uNUMAAzpUc.webp");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+}
+
+body {
+    color: white;
+}
+
+body {
+    background-color: rgba(170, 105, 20, 0.703);
+    border-radius: 25px;
+    width: 300px;
+    margin: 25px auto;
+    padding: 25px 150px 50px;
+}
+
+head {
+    font-size: 50px;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    Letter-spacing: 2px;
+ }
+
+ h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    Letter-spacing: 2px;
+ }
+
+ h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    Letter-spacing: 2px;
+ }
+
+ 
